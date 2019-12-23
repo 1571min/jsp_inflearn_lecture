@@ -1,0 +1,35 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<%
+	String adminID;
+	String adminPW;
+	
+	String imgdir;
+	String testSeverIP;
+	String realServerIP;
+%>
+<%
+	adminID=config.getInitParameter("adminId");
+	adminPW=config.getInitParameter("adminPw");
+	
+	
+	imgdir=application.getInitParameter("imgDir");
+	testSeverIP=application.getInitParameter("testSeverIP");
+	realServerIP=application.getInitParameter("realSeverIP");
+%>
+
+<p>adminID:<%=adminID %></p>
+<p>adminPW:<%=adminPW %></p>
+<p>imgdir:<%=imgdir %></p>
+<p>testSeverIP:<%=testSeverIP %></p>
+<p>realServerIP:<%=realServerIP %></p>
+
+</body>
+</html>
