@@ -1,10 +1,11 @@
 #Tomcat publish data
-#Sun Dec 22 19:39:04 KST 2019
+#Mon Dec 23 11:27:56 KST 2019
 org.eclipse.jst.jee.server\:lec13Ptj001=C\:\\Astudy\\\uC790\uBC14\uBC31\uC5D4\uB4DC\\download\\apache-tomcat-8.5.50\\apache-tomcat-8.5.50\\wtpwebapps\\lec13Ptj001
 org.eclipse.jst.jee.server\:lec06Ptj001=C\:\\Astudy\\\uC790\uBC14\uBC31\uC5D4\uB4DC\\download\\apache-tomcat-8.5.50\\apache-tomcat-8.5.50\\wtpwebapps\\lec06Ptj001
 org.eclipse.jst.jee.server\:lec12Ptj001=C\:\\Astudy\\\uC790\uBC14\uBC31\uC5D4\uB4DC\\download\\apache-tomcat-8.5.50\\apache-tomcat-8.5.50\\wtpwebapps\\lec12Ptj001
 org.eclipse.jst.jee.server\:lec04Ptj001=C\:\\Astudy\\\uC790\uBC14\uBC31\uC5D4\uB4DC\\download\\apache-tomcat-8.5.50\\apache-tomcat-8.5.50\\wtpwebapps\\lec04Ptj001
 org.eclipse.jst.jee.server\:lec005Ptj001=C\:\\Astudy\\\uC790\uBC14\uBC31\uC5D4\uB4DC\\download\\apache-tomcat-8.5.50\\apache-tomcat-8.5.50\\wtpwebapps\\lec005Ptj001
+org.eclipse.jst.jee.server\:lec14Ptj001=C\:\\Astudy\\\uC790\uBC14\uBC31\uC5D4\uB4DC\\download\\apache-tomcat-8.5.50\\apache-tomcat-8.5.50\\wtpwebapps\\lec14Ptj001
 org.eclipse.jst.jee.server\:lec03Pjt001=C\:\\Astudy\\\uC790\uBC14\uBC31\uC5D4\uB4DC\\download\\apache-tomcat-8.5.50\\apache-tomcat-8.5.50\\wtpwebapps\\lec03Pjt001
 org.eclipse.jst.jee.server\:lec10Pjt001=C\:\\Astudy\\\uC790\uBC14\uBC31\uC5D4\uB4DC\\download\\apache-tomcat-8.5.50\\apache-tomcat-8.5.50\\wtpwebapps\\lec10Pjt001
 org.eclipse.jst.jee.server\:lec11Ptj001=C\:\\Astudy\\\uC790\uBC14\uBC31\uC5D4\uB4DC\\download\\apache-tomcat-8.5.50\\apache-tomcat-8.5.50\\wtpwebapps\\lec11Ptj001

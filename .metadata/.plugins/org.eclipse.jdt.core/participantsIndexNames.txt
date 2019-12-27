@@ -13,3 +13,5 @@ C:\Astudy\자바백엔드\JSP lecture(inflearn)\.metadata\.plugins\org.eclipse.jst.js
 \lec03Pjt001\src
 C:\Astudy\자바백엔드\JSP lecture(inflearn)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2185131256.index
 \lec13Ptj001\src
+C:\Astudy\자바백엔드\JSP lecture(inflearn)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1662025372.index
+\lec14Ptj001\src
